@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [0.4.16] - 2024-11-10
+
+- Support 243-EAP [[#1017](https://github.com/koxudaxi/pydantic-pycharm-plugin/pull/1017)]
+
 ## [0.4.15] - 2024-09-03
 
 - Resolve plugin crash in PyCharm Community Edition after 2024.2 update [[#981](https://github.com/koxudaxi/pydantic-pycharm-plugin/pull/981)]
@@ -553,7 +557,8 @@
 - Support ellipsis(...) in fields [[#34](https://github.com/koxudaxi/pydantic-pycharm-plugin/pull//34)]
 - Support Schema in fields [[#31](https://github.com/koxudaxi/pydantic-pycharm-plugin/pull//31)]
 
-[Unreleased]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.15...HEAD
+[Unreleased]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.16...HEAD
+[0.4.16]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.15...v0.4.16
 [0.4.15]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.14...v0.4.15
 [0.4.14]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.13...v0.4.14
 [0.4.13]: https://github.com/koxudaxi/pydantic-pycharm-plugin/compare/v0.4.12...v0.4.13
